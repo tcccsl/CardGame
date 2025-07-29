@@ -1,0 +1,1 @@
+D:\cwork\CardGame\cocos2d\external\recast\proj.win32\Debug.win32\librecast.lib

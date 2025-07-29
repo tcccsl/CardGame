@@ -1,0 +1,55 @@
+# 构建输出目录
+build/
+out/
+
+# Visual Studio生成文件
+.vs/
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.opendb
+
+# 平台特定的构建文件
+proj.win32/Debug.win32/
+proj.win32/Release.win32/
+proj.win32/x64/
+proj.android/app/build/
+proj.android/.gradle/
+proj.android/local.properties
+proj.ios_mac/build/
+proj.ios_mac/DerivedData/
+
+# 临时文件
+*.tmp
+*.log
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.pch
+*.res
+*.lib
+*.dll
+*.exe
+*.exp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cocos2d-x特定文件
+cocos2d/build/
+cocos2d/external/*/prebuilt/
+
+# 其他
+*.bak
+*.orig
+*~

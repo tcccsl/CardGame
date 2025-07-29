@@ -1,0 +1,1 @@
+D:\cwork\CardGame\cocos2d\cocos\editor-support\spine\proj.win32\Debug.win32\libSpine.lib
