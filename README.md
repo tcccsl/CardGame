@@ -16,7 +16,7 @@ CardGame是一个卡牌消除类游戏，玩家通过点击手牌和牌桌上的
 
 ## 技术栈
 
-- **游戏引擎**：Cocos2d-x 4.x
+- **游戏引擎**：Cocos2d-x 3.17.2
 - **编程语言**：C++17
 - **架构模式**：MVC (Model-View-Controller)
 - **构建系统**：CMake
